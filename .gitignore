@@ -1,0 +1,24 @@
+﻿# Ignore dataset folders
+datasets/
+**/datasets/
+
+# Ignore all train* directories except train6
+train*/
+**/train*/
+!train6/
+!**/train6/
+
+# Common ignores
+__pycache__/
+*.py[cod]
+*.pyo
+*.pt
+env/
+venv/
+.env
+.vscode/
+*.DS_Store
+runs/
+dist/
+build/
+'*.egg-info'
