@@ -1,8 +1,8 @@
 
-Machine Learning With YOLO - v1 2025-10-22 2:41pm
+Phone counterv1 - v2 Roboflow Instant 2 [Eval]
 ==============================
 
-This dataset was exported via roboflow.com on October 22, 2025 at 12:41 PM GMT
+This dataset was exported via roboflow.com on November 19, 2025 at 8:58 AM GMT
 
 Roboflow is an end-to-end computer vision platform that helps you
 * collaborate with your team on computer vision projects
@@ -17,12 +17,11 @@ visit https://github.com/roboflow/notebooks
 
 To find over 100k other datasets and pre-trained models, visit https://universe.roboflow.com
 
-The dataset includes 33 images.
-Objects are annotated in YOLOv11 format.
+The dataset includes 37 images.
+Phones are annotated in YOLOv11 format.
 
 The following pre-processing was applied to each image:
 * Auto-orientation of pixel data (with EXIF-orientation stripping)
-* Resize to 640x640 (Stretch)
 
 No image augmentation techniques were applied.
 
